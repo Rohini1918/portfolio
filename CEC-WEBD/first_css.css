@@ -1,0 +1,180 @@
+h1{
+    /* color: white; */
+    font-family:'Times New Roman', Times, serif;
+    font-size: 60px;
+    text-align: center;
+    }
+
+
+    .navbar {
+        
+        position: fixed;
+        top: 0;
+        width: 100%;
+      }
+      
+      .navbar a {
+        float: left;
+        display: block;
+        text-align: center;
+        padding: 14px 16px;
+        text-decoration: none;
+        font-size: 17px;
+      }
+      
+      .navbar a:hover {
+        background: #ddd;
+        color: black;
+      }
+#mainpage {
+    top:10%;
+    height: 100vh;
+}
+
+#links #link1{
+    position: absolute;
+    left: 10%;
+    top:30%;
+    color:white;
+    
+}
+
+#links #link2{
+    position: absolute;
+    left: 10%;
+    top:38%;
+    color:white;
+}
+
+#links #link3{
+    position: absolute;
+    left: 10%;
+    top:46%;
+    color:white;
+}
+
+#links #link4{
+    position: absolute;
+    left: 10%;
+    top:54%;
+    color:white;
+}
+
+#links #link5{
+    position: absolute;
+    left: 10%;
+    top:62%;
+    color:white;
+}
+#links #link6{
+    position: absolute;
+    left: 10%;
+    top:70%;
+    color:white;
+}
+
+
+section {
+    height: 100vh;
+  }
+
+#contents #About #image {
+    position: relative;
+    top:-30%;
+    left:7%;
+}
+#contents #School_Projects #image {
+    position: relative;
+    top:-30%;
+    left:7%;
+    width: 75%;
+}
+#contents #Achievements #image {
+    position: relative;
+    top:-20%;
+    left:5%;
+}
+#contents #contacts #image {
+    position: relative;
+    top:-10%;
+    left:5%;
+}
+#contents #Skills #image {
+    position: relative;
+    top:-30%;
+    left:3%;
+}
+#mainpage #home{
+    position: absolute;
+    top:30%;
+    left:30%;
+    font-family: 'Times New Roman', Times, serif;
+    font-size: 65px;
+    color:white;
+   
+}
+#contents #Achievements #para{
+    top: 30%;
+    left: 15%;
+}
+#contents #contacts #form{
+    position:relative;
+    top: 20%;
+    left: 60%;
+}
+#contents #Skills #para{
+    top: 15%;
+    left: 18%;
+}
+#contents #About #heading{
+    position: relative;
+    top:5%;
+    left: 10%;
+}
+#contents #Skills #heading{
+    position: relative;
+    top:10%;
+    left: 15%;
+}
+#contents #About #heading{
+    position: relative;
+    top:20%;
+    left: 10%;
+}
+#contents #Academic_qualification #heading{
+    position: relative;
+    top:20%;
+    left: 10%;
+}
+#contents #School_Projects #heading{
+    position: relative;
+    top:20%;
+    left: 10%;
+}
+#contents #Achievements #heading{
+    position: relative;
+    top:20%;
+    left: 10%;
+}
+#mainpage{
+    background: url(https://webneel.com/wallpaper/sites/default/files/images/06-2018/black-wallpaper-best.jpg) no-repeat center;
+}
+.navbar #home1
+{
+    position: absolute;
+    top:30%;
+    left:5%;
+    font-family: 'Times New Roman', Times, serif;
+    font-size: 20px;
+    color: white;
+}
+#contents #para
+{
+    position: relative;
+    top: 20%;
+    font-family: times 'Times New Roman', Times, serif;
+    font-size: 35px;
+    text-align: center;
+    left: 10%;
+    
+}
